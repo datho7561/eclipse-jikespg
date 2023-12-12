@@ -1,3 +1,9 @@
-target
-bin
-.settings
+# Maven
+target/
+
+# Eclipse
+bin/
+.settings/
+
+# IntelliJ IDEA
+.idea/
