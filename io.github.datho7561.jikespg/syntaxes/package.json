@@ -1,0 +1,23 @@
+{
+  "name": "jikespg",
+  "version": "0.2.0-SNAPSHOT",
+  "description": "jikespg",
+  "license": "EPL-2.0",
+  "contributes": {
+    "languages": [
+      {
+        "id": "jikespg",
+        "extensions": [
+          ".g"
+        ]
+      }
+    ],
+    "grammars": [
+      {
+        "language": "jikespg",
+        "scopeName": "source.jikespg",
+        "path": "./jikespg.json"
+      }
+    ]
+  }
+}
